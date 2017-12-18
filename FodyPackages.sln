@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeavableAssembly", "WeavableAssembly\WeavableAssembly.csproj", "{9B81F2ED-AC4B-4111-BB2B-E1FDEFFA0413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Cecil.Debugger", "Mono.Cecil.Debugger\Mono.Cecil.Debugger.csproj", "{37D57C0D-D890-4D4D-8982-07A10592A6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNF.Mask.Fody", "FNF.Mask.Fody\FNF.Mask.Fody.csproj", "{CB85CB5C-65B5-4423-AB81-5DFF75676ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B81F2ED-AC4B-4111-BB2B-E1FDEFFA0413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B81F2ED-AC4B-4111-BB2B-E1FDEFFA0413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B81F2ED-AC4B-4111-BB2B-E1FDEFFA0413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B81F2ED-AC4B-4111-BB2B-E1FDEFFA0413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D57C0D-D890-4D4D-8982-07A10592A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D57C0D-D890-4D4D-8982-07A10592A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D57C0D-D890-4D4D-8982-07A10592A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D57C0D-D890-4D4D-8982-07A10592A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB85CB5C-65B5-4423-AB81-5DFF75676ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB85CB5C-65B5-4423-AB81-5DFF75676ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB85CB5C-65B5-4423-AB81-5DFF75676ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB85CB5C-65B5-4423-AB81-5DFF75676ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
